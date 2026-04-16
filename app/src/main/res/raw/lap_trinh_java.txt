@@ -1,0 +1,10 @@
+1-Tuần 1: Giới thiệu về Java, Cài đặt môi trường & Cấu trúc chương trình cơ bản
+2-Tuần 2: Cú pháp cơ bản: Biến, Kiểu dữ liệu, Cấu trúc điều khiển
+3-Tuần 3: Mảng (Array) và Chuỗi (String)
+4-Tuần 4: Lập trình Hướng đối tượng (OOP) Cơ bản: Class và Object
+5-Tuần 5: Ôn tập và kiểm tra giữa kỳ (Cú pháp cơ bản và OOP)
+6-Tuần 6: Các nguyên lý OOP: Kế thừa (Inheritance) và Đa hình (Polymorphism)
+7-Tuần 7: Trừu tượng (Abstraction): Interface và Abstract Class
+8-Tuần 8: Xử lý Ngoại lệ (Exception Handling) và Vào/Ra (I/O)
+9-Tuần 9: Collections Framework: List, Set, Map
+10-Tuần 10: Ôn tập và Thi cuối kỳ (Thực hành dự án nhỏ)

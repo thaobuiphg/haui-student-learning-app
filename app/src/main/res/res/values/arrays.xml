@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loai_lich">
+        <item>Lịch học</item>
+        <item>Họp CLB</item>
+        <item>Hoạt động ngoại khóa</item>
+        <item>Khác</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+1-Tuần 1: Giới thiệu về Vật lý Đại cương & Động học chất điểm
+2-Tuần 2: Động lực học chất điểm: Các định luật Newton
+3-Tuần 3: Động lượng và Va chạm (Hệ chất điểm)
+4-Tuần 4: Ôn tập và kiểm tra giữa kỳ (Cơ học)
+5-Tuần 5: Dao động và Sóng cơ: Dao động điều hòa
+6-Tuần 6: Công và Năng lượng: Định lý biến thiên cơ năng
+7-Tuần 7: Nhiệt học: Nguyên lý thứ nhất của Nhiệt động lực học
+8-Tuần 8: Điện trường và Định luật Coulomb
+9-Tuần 9: Mạch điện một chiều: Định luật Kirchhoff
+10-Tuần 10: Ôn tập cuối kì

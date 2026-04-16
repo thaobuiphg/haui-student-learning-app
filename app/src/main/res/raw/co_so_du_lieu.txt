@@ -1,0 +1,10 @@
+1-Tuần 1: Tổng quan: Khái niệm về CSDL và Hệ QTCSDL
+2-Tuần 2: Mô hình Thực thể - Liên kết (E-R Model)
+3-Tuần 3: Thiết kế CSDL quan hệ và Ánh xạ sang mô hình quan hệ
+4-Tuần 4: Đại số quan hệ và Phép tính quan hệ
+5-Tuần 5: Ôn tập và kiểm tra giữa kỳ (Mô hình và Thiết kế)
+6-Tuần 6: Ngôn ngữ truy vấn có cấu trúc (SQL) Cơ bản: DDL, DML
+7-Tuần 7: SQL Nâng cao: JOIN, Subquery, Hàm tổng hợp
+8-Tuần 8: Phụ thuộc Hàm và Dạng chuẩn hóa (1NF, 2NF, 3NF, BCNF)
+9-Tuần 9: Các vấn đề về Giao dịch (Transaction) và Điều khiển đồng thời
+10-Tuần 10: Ôn tập và Thi cuối kỳ (Thực hành SQL tổng hợp)

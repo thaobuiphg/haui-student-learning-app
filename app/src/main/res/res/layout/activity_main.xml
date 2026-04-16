@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#F5F5F5"
+    android:id="@+id/main">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HỖ TRỢ HỌC TẬP "
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="50dp" />
+
+    <Button android:id="@+id/btnTimeTable"
+        android:layout_width="300dp" android:layout_height="90dp"
+        android:text="QUẢN LÝ THỜI GIAN BIỂU"
+        android:backgroundTint="#FFDADA"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/black"/>
+
+    <Button android:id="@+id/btnStudyResult"
+        android:layout_width="300dp" android:layout_height="90dp"
+        android:text="THEO DÕI KẾT QUẢ HỌC TẬP"
+        android:backgroundTint="#ABE7B2"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/black"/>
+
+    <Button android:id="@+id/btnDocument"
+        android:layout_width="300dp" android:layout_height="90dp"
+        android:text="TÀI LIỆU HỌC TẬP"
+        android:backgroundTint="#FFE67C"
+        android:textColor="@color/black"/>
+</LinearLayout>

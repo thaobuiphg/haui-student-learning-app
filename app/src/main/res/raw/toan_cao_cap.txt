@@ -1,0 +1,9 @@
+1-Tuần 1: Hàm số, Giới hạn của dãy số và hàm số
+2-Tuần 2: Tính liên tục của hàm số & Đạo hàm và Vi phân (Cấp 1)
+3-Tuần 3: Đạo hàm và Vi phân cấp cao, Công thức Taylor
+4-Tuần 4: Ứng dụng của Đạo hàm: Cực trị, Khảo sát hàm số
+5-Tuần 5: Ôn tập và kiểm tra giữa kỳ (Phép tính vi phân)
+6-Tuần 6: Nguyên hàm và Tích phân bất định
+7-Tuần 7: Tích phân xác định và Ứng dụng hình học của Tích phân
+8-Tuần 8: Ma trận: Các phép toán, Ma trận nghịch đảo, Hạng ma trận
+9-Tuần 9: Định thức và Hệ phương trình tuyến tính (Phương pháp Cramer/Gauss) 10-Tuần 10: Ôn tập và Thi cuối kỳ

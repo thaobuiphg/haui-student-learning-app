@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HoTroHocTap</string>
+
+    <string name="select_type">Chọn loại lịch</string>
+    <string-array name="schedule_types">
+        <item>Lịch học</item>
+        <item>Lịch thi</item>
+        <item>Hoạt động ngoại khóa</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
