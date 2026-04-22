@@ -1,5 +1,10 @@
 # Ứng dụng hỗ trợ học tập cho sinh viên HaUI
 
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Language](https://img.shields.io/badge/language-Java-orange)
+![Database](https://img.shields.io/badge/database-SQLite-blue)
+![IDE](https://img.shields.io/badge/tool-Android%20Studio-brightgreen)
+
 ## Giới thiệu
 Đây là ứng dụng Android được phát triển nhằm hỗ trợ sinh viên Trường Đại học Công nghiệp Hà Nội trong việc quản lý học tập một cách hiệu quả.  
 
@@ -57,14 +62,6 @@ SQLite Database (local)
 - Ứng dụng hoạt động **offline**  
 - Không sử dụng backend server  
 - Dữ liệu lưu trực tiếp trên thiết bị  
-
----
-
-## Thành viên nhóm
-- Vũ Thị Quỳnh Chi – Theo dõi kết quả học tập  
-- Nguyễn Kim Oanh – Thống kê và biểu đồ  
-- **Bùi Phương Thảo – Quản lý thời gian biểu**  
-- Tạ Thị Thu – Quản lý tài liệu  
 
 ---
 
