@@ -1,5 +1,8 @@
 # Ứng dụng hỗ trợ học tập cho sinh viên HaUI
 
+![GitHub repo size](https://img.shields.io/github/repo-size/thaobuiphg/financial-management-app)
+![GitHub stars](https://img.shields.io/github/stars/thaobuiphg/financial-management-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/thaobuiphg/financial-management-app?style=social)
 ![Platform](https://img.shields.io/badge/platform-Android-green)
 ![Language](https://img.shields.io/badge/language-Java-orange)
 ![Database](https://img.shields.io/badge/database-SQLite-blue)
